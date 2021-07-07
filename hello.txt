@@ -1,1 +1,1 @@
-hello ,this is git demo! senond edition
+hello ,this is git demo! thrid edition
