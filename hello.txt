@@ -1,1 +1,1 @@
-hello ,this is git demo!
+hello ,this is git demo! senond edition
