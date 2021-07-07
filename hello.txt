@@ -3,3 +3,5 @@ hello ,this is git demo! thrid edition
 hot-fix
 
 master
+
+add new message
